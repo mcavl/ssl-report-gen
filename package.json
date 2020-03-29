@@ -1,0 +1,16 @@
+{
+  "name": "checkssl",
+  "version": "1.0.0",
+  "description": "Check the validity of ssl certificates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Cavalcanti",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise-pool": "^2.5.0",
+    "excel4node": "^1.7.2",
+    "moment": "^2.24.0"
+  }
+}
